@@ -1,3 +1,5 @@
+include 'student_lastname_firstname'
+
 include 'mentor:property_insurance_calculator:step_1'
 include 'mentor:property_insurance_calculator:step_2'
 include 'mentor:property_insurance_calculator:step_3'
